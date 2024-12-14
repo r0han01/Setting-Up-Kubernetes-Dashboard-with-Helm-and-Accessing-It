@@ -13,7 +13,7 @@ There are two options for installing Helm:
 ### Option 1: Install Helm via Snap
 ```bash
 sudo snap install helm --classic
-
+```
 ## Installing Helm and Kubernetes Dashboard
 
 ### Step 1: Install Helm via Script
@@ -122,3 +122,5 @@ helm upgrade --install kubernetes-dashboard kubernetes-dashboard/kubernetes-dash
 - Authenticate using a Bearer Token.
 
 - Troubleshoot common issues like missing services, pod errors, or proxy issues.
+
+- ![ScreenShot Tool -20241214092753](https://github.com/user-attachments/assets/c7270c37-706e-4c98-87d7-a61aec7d35e5)
